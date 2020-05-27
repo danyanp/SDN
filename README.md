@@ -125,7 +125,7 @@
 
 - 使用SSH，TElNET客户端登录到路由进行配置管理
 
-  ![image-20200527203100488](README.assets\image-20200527203100488.png)
+  ![image-20200527203100488](https://github.com/danyanp/SDN/blob/master/README.assets/image-20200527203100488.png)
 
 - 使用netmiko包进行配置管理
 
