@@ -86,13 +86,13 @@
     }
     ```
 
-    ![image-20200527204833988](README.assets\image-20200527204833988.png)
+    ![image-20200527204833988](https://github.com/danyanp/SDN/blob/master/README.assets/image-20200527204833988.png)
 
     
 
   - ##### Experimenting with RESTCONF and NETCONF protocols
 
-    ![image-20200527205117912](README.assets\image-20200527205117912.png)
+    ![image-20200527205117912](https://github.com/danyanp/SDN/blob/master/README.assets/image-20200527205117912.png)
 
 #### 1.Network Virtualizaton 网络虚拟化
 
